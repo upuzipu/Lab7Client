@@ -1,0 +1,10 @@
+{"1":
+  {"id":1,
+    "name":"bmw",
+    "coordinates":
+      {"x":123.0,"y":123.0},
+    "type":"PLANE",
+    "fuelType":"GASOLINE",
+    "enginePower":123,
+    "creationDate":"Apr 27, 2022 10:47:16 AM"}
+}
